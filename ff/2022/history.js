@@ -55,7 +55,7 @@ $(document).ready(function () {
 			"searching": false,
 			"paging": false,
 			"info": false,
-			"order":[[5,"desc"],[1,"desc"],[2,"desc"],[3,"desc"],[4,"asc"]]
+			"order":[[4,"desc"],[1,"desc"],[2,"desc"],[3,"desc"]]
 		});
 		// Tooltip
 		jQuery('[data-toggle="tooltip"]').each(function(){
